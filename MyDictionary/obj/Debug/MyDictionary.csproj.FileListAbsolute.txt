@@ -1,0 +1,10 @@
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.Properties.Resources.resources
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.pdb
+C:\Users\a\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.MyDictionary.resources
